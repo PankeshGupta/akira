@@ -1,0 +1,87 @@
+models:
+  - Sentiment Analysis:
+      description:  Sentiment from text
+      tags: 
+        - microservices   
+        - nlp  
+        - sentimentanalysis
+        - stanfordcorenlp 
+        - textanalysis
+      repo_name: sentiment_analysis
+      category: text_analysis
+  - New Sentiment Analysis:
+      description: Stock trends based on the sentiment analysis 
+      tags:
+        - nlp
+        - financial
+      repo_name: new_setiment_analysis
+      category: text_analysis
+  - Summarizer:
+      description: Summerize english text
+      tags:
+        - nlp
+        - text
+      repo_name: summarizer
+      category: text_analysis
+  - AutoTag:
+      description: Generate keyword tags from text
+      tags: 
+        - auto-tager
+        - nlp
+        - tagging
+      repo_name: autotag
+      category: text_analysis
+  - Financial Returns Forecasting:
+      description: Predict returns on investment
+      tags:
+        - dl
+        - finance
+      repo_name: financial_returns_forcast
+      category: deep_learning 
+- Real time video analysis:
+    description: Real time analyze videos
+    tags: 
+      - real time
+      - video
+    repo_name: real_time_video_analysis
+    category: deep_learning
+- Face Recognisition: 
+    description: Recognise faces in images
+    tags:
+      - cv 
+      - faces
+    repo_name: face_recognisition
+    category: computer_vision
+- Real time video analysis:
+    description: Real time analyze videos
+    tags: 
+      - real time
+      - video
+    repo_name: real_time_video_analysis
+    category: computer_vision
+- Ocr:
+    description: Optical content Recognisition
+    tags:
+      - cv
+      - text
+    repo_name: ocr
+    category: computer_vision
+- Credit card fraud detection:
+    description: Predict credit card frauds
+    tags:
+      - ml
+      - finance
+    repo_name: credit_card_fraud
+    category: machine_learning
+- Image Pixel Classification: 
+    description: Detects manipulated parts of images
+    tags: 
+    repo_name: image_pixel_classification
+    category: machine_learning
+- Horse race prediction:
+    description: Predict result of horse races
+    tags:
+      - ml
+      - prediction
+    repo_name: horse_race_prediction
+    category: machine_learning
