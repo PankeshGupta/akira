@@ -1,8 +1,8 @@
 Categories:
-  -Text Analysis
-  -Machine Learning
-  -Computer Vision
-  -Deep Learning
+  - Text Analysis
+  - Machine Learning
+  - Computer Vision
+  - Deep Learning
 Details:
   - Text Analysis:
       description: Text Analysis or Natural Language Processing (NLP) is a way for computers 
