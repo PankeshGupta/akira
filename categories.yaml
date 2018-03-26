@@ -7,12 +7,14 @@ Categories:
                    knowledge to perform tasks such as automatic summarization, translation, 
                    named entity recognition, relationship extraction, sentiment analysis, 
                    speech recognition, and topic segmentation.
+    category_slug : text_analysis
   -
     name: Machine Learning
     description:  Machine learning is a set of mathematical approaches to teaching computers to
                     learn based on large quantities of data, instead of human step by step instruction. 
                     There are many categories of Machine Learning including Natural Language Processing, 
-                    Computer Vision, Time Series, and more.                   
+                    Computer Vision, Time Series, and more.
+    category_slug : machine_learning
   -
     name: Computer Vision
     description: Text Analysis or Natural Language Processing (NLP) is a way for computers 
@@ -21,6 +23,7 @@ Categories:
                    knowledge to perform tasks such as automatic summarization, translation, 
                    named entity recognition, relationship extraction, sentiment analysis, 
                    speech recognition, and topic segmentation.
+    category_slug: computer_vision
 
   -
     name: Deep Learning
@@ -28,3 +31,4 @@ Categories:
                    and business leaders absolutely need to understand what it is and how it works. 
                    This unique type of algorithm has far surpassed any previous benchmarks for 
                    classification of images, text, and voice .
+    category_slug: deep_learning
