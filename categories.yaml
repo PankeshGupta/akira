@@ -1,30 +1,30 @@
-Categories:
-  - Text Analysis
-  - Machine Learning
-  - Computer Vision
-  - Deep Learning
-Details:
-  - Text Analysis:
-      description: Text Analysis or Natural Language Processing (NLP) is a way for computers 
+Categories:  
+  - 
+    name: Text Analysis
+    description: Text Analysis or Natural Language Processing (NLP) is a way for computers 
                    to analyze, understand, and derive meaning from human language in a smart
                    and useful way. By utilizing NLP, developers can organize and structure 
                    knowledge to perform tasks such as automatic summarization, translation, 
                    named entity recognition, relationship extraction, sentiment analysis, 
                    speech recognition, and topic segmentation.
-  - Machine Learning:
-      description:  Machine learning is a set of mathematical approaches to teaching computers to
+  -
+    name: Machine Learning
+    description:  Machine learning is a set of mathematical approaches to teaching computers to
                     learn based on large quantities of data, instead of human step by step instruction. 
                     There are many categories of Machine Learning including Natural Language Processing, 
-                    Computer Vision, Time Series, and more.
-  - Computer Vision:
-      description: Text Analysis or Natural Language Processing (NLP) is a way for computers 
+                    Computer Vision, Time Series, and more.                   
+  -
+    name: Computer Vision
+    description: Text Analysis or Natural Language Processing (NLP) is a way for computers 
                    to analyze, understand, and derive meaning from human language in a smart
                    and useful way. By utilizing NLP, developers can organize and structure 
                    knowledge to perform tasks such as automatic summarization, translation, 
                    named entity recognition, relationship extraction, sentiment analysis, 
                    speech recognition, and topic segmentation.
-  - Deep Learning:
-      description: Deep Learning is at the cutting edge of what machines can do, and developers 
+
+  -
+    name: Deep Learning
+    description: Deep Learning is at the cutting edge of what machines can do, and developers 
                    and business leaders absolutely need to understand what it is and how it works. 
                    This unique type of algorithm has far surpassed any previous benchmarks for 
                    classification of images, text, and voice .
