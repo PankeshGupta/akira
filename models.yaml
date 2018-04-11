@@ -10,6 +10,9 @@ models:
       - textanalysis
     repo_name: sentiment_analysis
     category: text_analysis
+    version: v0.1
+    state: stable
+    creation_date: 2018-04-11
   -   
     name: New Sentiment Analysis
     description: Stock trends based on the sentiment analysis 
@@ -18,6 +21,9 @@ models:
       - financial
     repo_name: new_setiment_analysis
     category: text_analysis
+    version: v0.21
+    state: incubate
+    creation_date: 2017-04-11
   - 
     name: Summarizer
     description: Summerize english text
@@ -26,6 +32,9 @@ models:
       - text
     repo_name: summarizer
     category: text_analysis
+    version: v0.11
+    state: optimized
+    creation_date: 2017-03-11
   -   
     name: AutoTag
     description: Generate keyword tags from text
@@ -35,6 +44,9 @@ models:
       - tagging
     repo_name: autotag
     category: text_analysis
+    version: v1.00
+    state: optimized
+    creation_date: 2017-03-16
   - 
     name: Financial Returns Forecasting
     description: Predict returns on investment
@@ -42,7 +54,10 @@ models:
       - dl
       - finance
     repo_name: financial_returns_forcast
-    category: deep_learning 
+    category: deep_learning
+    version: v2.11
+    state: optimized
+    creation_date: 2017-03-21
   - 
     name: Real time video analysis
     description: Real time analyze videos
@@ -51,6 +66,9 @@ models:
       - video
     repo_name: real_time_video_analysis
     category: deep_learning
+    version: v0.11
+    state: stable
+    creation_date: 2017-02-21
   - 
     name: Face Recognisition 
     description: Recognise faces in images
@@ -59,6 +77,9 @@ models:
       - faces
     repo_name: face_recognisition
     category: computer_vision
+    version: v0.1
+    state: incubate
+    creation_date: 2018-01-11
   - 
     name: Real time video analysis
     description: Real time analyze videos
@@ -67,6 +88,9 @@ models:
       - video
     repo_name: real_time_video_analysis
     category: computer_vision
+    version: v0.121
+    state: incubate
+    creation_date: 2017-01-19
   - 
     name: Ocr
     description: Optical content Recognisition
@@ -75,6 +99,9 @@ models:
       - text
     repo_name: ocr
     category: computer_vision
+    version: v0.12
+    state: stable
+    creation_date: 2018-02-21
   - 
     name: Credit card fraud detection
     description: Predict credit card frauds
@@ -83,12 +110,18 @@ models:
       - finance
     repo_name: credit_card_fraud
     category: machine_learning
+    version: v0.16
+    state: optimized
+    creation_date: 2017-02-11
   - 
     name: Image Pixel Classification
     description: Detects manipulated parts of images
     tags: 
     repo_name: image_pixel_classification
     category: machine_learning
+    version: v1.00
+    state: optimized
+    creation_date: 2017-03-15
   - 
     name: Horse race prediction
     description: Predict result of horse races
@@ -97,3 +130,6 @@ models:
       - prediction
     repo_name: horse_race_prediction
     category: machine_learning
+    version: v2.2
+    state: stable
+    creation_date: 2018-03-23
