@@ -133,3 +133,14 @@ models:
     version: v2.2
     state: stable
     creation_date: 2018-03-23
+  - 
+    name: Object distance detection
+    description: Detects object and its distance from an image
+    tags:
+      - ml
+      - vision
+    repo_name: object_distance_detection
+    category: computer_vision
+    version: v1.0
+    state: stable
+    creation_date: 2018-03-23
