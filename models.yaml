@@ -11,7 +11,7 @@ models:
     repo_name: sentiment_analysis
     category: text_analysis
     version: v0.1
-    state: stable
+    state: incubate
     creation_date: 2018-04-11
   -   
     name: New Sentiment Analysis
